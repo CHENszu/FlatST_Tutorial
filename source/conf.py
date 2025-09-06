@@ -37,3 +37,6 @@ html_theme = 'sphinx_rtd_theme'
 # 配置 Jupyter 笔记本相关设置
 nbsphinx_execute = 'auto'  # 自动执行笔记本
 nbsphinx_allow_errors = True  # 允许执行错误
+build:
+  commands:
+    - python -m ipykernel install --user --name python3  # 显式安装 python3 内核

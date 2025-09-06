@@ -15,7 +15,9 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
    
+   Setup of the FlatST environment
    Tutorial 1 10x Visium (DLPFC dataset)
    Tutorial 2 MERFISH
-   Tutorial 3 2D
-   Tutorial 4 3D
+   Tutorial 3 Denoising
+   Tutorial 4 2D
+   Tutorial 5 3D

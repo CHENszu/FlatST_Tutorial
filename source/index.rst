@@ -1,9 +1,9 @@
-.. Test_1 documentation master file, created by
+.. FlatST_Tutorial master file, created by
    sphinx-quickstart on Thu Sep  4 21:04:13 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Test_1 documentation
+FlatST_Tutorial
 ====================
 
 Add your content using ``reStructuredText`` syntax. See the
